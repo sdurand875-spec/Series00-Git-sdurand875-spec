@@ -21,3 +21,15 @@ Finally, I want to present data clearly so that it is useful for both the staff 
 ## Local image
 
 ![Ice hockey](images/ice-hockey.png)
+
+## What I learned
+
+- I learned how to create and use a GitHub repository.
+- I learned how to create a branch, make commits and push my changes to GitHub.
+- I learned how to modify a README file and see the link between my local changes and the repository online.
+- I learned how to add an image from a URL to a README file.
+- I learned how to add an image from my computer using a local folder and a relative path.
+
+## Conclusion
+
+This assignment took me approximately 1 hour to complete.
