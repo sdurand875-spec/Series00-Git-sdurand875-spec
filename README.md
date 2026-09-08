@@ -17,3 +17,7 @@ My goal is to work in professional sport, not only as a strength and conditionin
 I want to understand athletes' data and use it to make my work more precise.
 I also want to be able to compare athletes and better understand what the numbers mean.
 Finally, I want to present data clearly so that it is useful for both the staff and the athletes.
+
+## Local image
+
+![Ice hockey](images/ice-hockey.png)
